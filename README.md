@@ -1,6 +1,8 @@
 baiji
 =====
 
+This project is on hiatus. Please see https://github.com/metabolize/baiji for more active development.
+
 High-level Python abstraction layer for Amazon S3:
 
 1. An [`open`][open]-like context handler which allows using S3 keys and
